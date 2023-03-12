@@ -1,0 +1,1 @@
+python start.py -p data.csv -i T
